@@ -1,4 +1,4 @@
-# MUHAMMAD-IMRAN
+# supermarket billing system
 SUPERMARKET BILLING SYSTEM
 import java.util.*;
 
